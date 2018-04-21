@@ -140,6 +140,9 @@ A list of awesome indonesia groups related to programming language on Telegram.
 * [Telegram beta](https://t.me/tgbeta)
 * [Telegram Themes](https://t.me/themeschannel)
 
+### UI/UX Group
+* [UI/UX Indonesia](https://t.me/uixnusantara)
+
 ### Open Source
 * [DOSCOM - Dinus Open Source Community](https://t.me/doscomedia)
 
